@@ -1,9 +1,9 @@
 <?php
 echo "HOLA MUNDO 2345";
 
-echo "HOLA MUNDO 6789";
+echo "HOLA MUNDO 67891";
 
-echo "HOLA MUNDO 101112";
+echo "HOLA MUNDO 1011121";
 
 
 ?>
